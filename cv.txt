@@ -1,0 +1,16 @@
+<p>Education:</p>
+<p>- BSc in Network Engineering, Al-Nahrain University (2023-2027)</p>
+
+<p>Skills:</p>
+<p>- Graphic Designing, Managment, PC Building and Troubleshooting</p>
+<p>- Networking: Nmap, Wireshark</p>
+
+<p>Experience:</p>
+<p>- Graphic Designer, PC Builder</p>
+
+<p>Certificates</p>
+<p>- Computer Hardware Basics - CISCO</p>
+<p>- Operating Systems Basics - CISCO</p>
+
+<p>Projects:</p>
+<p>- Portfolio Website</p>

@@ -1,0 +1,65 @@
+body {
+    background-color: #ffd66b;
+}
+header {
+    text-align: center;
+    font-family:monospace;
+    font-weight: bold;
+    font-size: 22px;
+    color: #000000;
+    
+}
+
+#main-box {
+    text-align: center;
+    background-color: #785dbb;
+    height: 500px;
+    width: 600px;
+    margin-left: 30%;
+    border: #000000 solid 4px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    overflow: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#button1, #button2 {
+    text-align: center;
+    background-color: #785dbb;
+    height: 50px;
+    width: 115px;
+    border: #000000 solid 3px;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#button1:hover, #button2:hover {
+    background-color: #000000;
+    color: #ffd66b;
+}
+
+#button1:active, #button2:active {
+    
+    transform: translateY(3px);
+    
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    color: #392c5a;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ffd66b;
+}
+
+
+hr {
+    border: 2px solid #000000;
+}
